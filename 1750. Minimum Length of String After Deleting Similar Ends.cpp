@@ -3,7 +3,10 @@ const int ZERO = []() {
     cin.tie(nullptr);
     return 0;
 }();
+<<<<<<< HEAD
 
+=======
+>>>>>>> 93b9e70 (Marz 5, 2024. Medium problem: Two pointer, String.)
 class Solution {
 public:
     int minimumLength(string s) {
